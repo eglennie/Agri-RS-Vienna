@@ -8,22 +8,22 @@ Training workshop on using satellite Earth observations and geospatial technique
 - Image Classification
 - Landsat characteristics and applications
 
-## Tutorial: Landsat classification in QGIS
+**Tutorial: Landsat classification in QGIS**
 
 # Day 2: Google Earth Engine & MODIS
 - Satellite resolution basics
 - MODIS characteristics and applications
 
-## Tutorial: NDVI and crop yield prediction in GEE
+**Tutorial: NDVI and crop yield prediction in GEE**
 
 ## Day 3: Global Agricultural Monitoring (GLAM)
 - Introduction to GLAM
 - GLAM applications
 
-## Tutorial: Follow up on days 1 & 2, optional: __
+**Tutorial: Follow up on days 1 & 2, optional:**
 
 # Day 4: Diseases and Precipitation
 - Rift Valley Fever (RVF) case study
-- CHIC case study
+- CHIC case study 
 
-## Tutorial: Accessing different datasets
+**Tutorial: Accessing different datasets**
