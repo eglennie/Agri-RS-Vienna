@@ -1,6 +1,3 @@
----
-typora-copy-images-to: ..\Desktop\Day1_Tutorial_Images
----
 
 ## IAEA Day 1 Tutorial
 ## Downloading Imagery and QGIS processing
@@ -23,7 +20,7 @@ ___
    - EarthExplorer is an online tool that allows users to access the Earth science data from the USGS archives. 
    - EarthExplorer provides online search, browse display, metadata export, and data download for several USGS datasets.
 
-![EarthExplorer](C:\Users\eglennie\Desktop\Day1_Tutorial_Images\EarthExplorer.PNG)
+![EarthExplorer](https://github.com/eglennie/Agri-RS-Vienna/blob/master/images/tutorials/day1/EarthExplorer.PNG)
 
 
 #### 2. Sign in to your EROS account
