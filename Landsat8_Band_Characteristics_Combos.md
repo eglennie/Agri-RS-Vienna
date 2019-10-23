@@ -16,6 +16,7 @@
 | 11 | 11.5-12.5 | 100 m | **Thermal (TIRS-2).** This band sees emitted, rather than reflected, radiation, and is therefore used to see heat.|
 
 Source:
+
 [Spectral Signature Cheatsheet - Spectral Bands in Remote Sensing - GIS Geography](https://gisgeography.com/spectral-signature/)
 
 #### Landsat Band Combinations
@@ -30,5 +31,7 @@ Source:
 | 564 | Land/Water | Land appears in shades of orange and green, water appears in shades of blue, and ice is a vibrant magenta. |
 
 Sources:
+
 [The Many Band Combinations of Landsat 8 - L3Harris Geospatial Solutions](https://www.harrisgeospatial.com/Learn/Blogs/Blog-Details/ArtMID/10198/ArticleID/15691/The-Many-Band-Combinations-of-Landsat-8)
+
 [Band Combinations for Landsat 8](https://www.esri.com/arcgis-blog/products/product/imagery/band-combinations-for-landsat-8/)
