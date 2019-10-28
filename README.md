@@ -44,11 +44,10 @@ October 28 - 31, 2019
 
 ### Morning Session
 
-1. Image of the day
-2. MODIS
-3. Operational Agricultural Monitoring
-4. Google Earth Engine
-5. Google Earth Engine Demo (Instructions in Day 3 Tutorial Notes)
+1. MODIS
+2. Operational Agricultural Monitoring
+3. Google Earth Engine
+4. Google Earth Engine Demo (Instructions in Day 3 Tutorial Notes)
 
 ### Afternoon Session
 
