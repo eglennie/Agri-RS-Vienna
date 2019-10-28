@@ -115,10 +115,9 @@ This image is the Level-2 product corresponding to the Level-1 product we are do
 ### Part 2: Discussion - Defining A Remote Sensing Problem (Discussion)
 
 While we wait for our images to download -
-
-- Do you see a place for remote sensing in your work?
-- What applications do you think would be most useful?
-- What would the data requirements be?
+- What are the applications for Remote Sensing data in your work?
+- Do you see any opportunities for remotely sensed data to fill gaps or issues with ground collected data/current methods?
+- What would the ideal data look like?
 
   ---
 ### Part 3: Level-1 Landsat Data 
